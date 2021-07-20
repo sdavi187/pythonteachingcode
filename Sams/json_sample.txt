@@ -1,0 +1,22 @@
+{
+	'id': 'UOm_WnG-1XPGfb8jWazLqg', 
+	'alias': 'tacos-del-chavo-kennesaw', 
+	'name': 'Tacos Del Chavo', 
+	'image_url': 'https://s3-media3.fl.yelpcdn.com/bphoto/ccAR0FTT7wDSk9Cz3CvkWQ/o.jpg', 'is_closed': False, 'url': 'https://www.yelp.com/biz/tacos-del-chavo-kennesaw?adjust_creative=CuyK_Nviuv3km8gryYuiqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=CuyK_Nviuv3km8gryYuiqg', 
+	'review_count': 424
+	'categories': [{'alias': 'mexican', 'title': 'Mexican'}]
+	'rating': 5.0
+	'coordinates': {'latitude': 34.005762, 'longitude': -84.603604}
+	'transactions': ['delivery']
+	'price': '$'
+	'location': {'address1': '2176 Cobb Pkwy NW', 'address2': ''
+	'address3': ''
+	'city': 'Kennesaw'
+	'zip_code': '30152'
+	'country': 'US'
+	'state': 'GA'
+	'display_address': ['2176 Cobb Pkwy NW', 'Kennesaw, GA 30152']}
+	'phone': '+16788868893'
+	'display_phone': '(678) 886-8893'
+	'distance': 3099.8050604637297
+}
